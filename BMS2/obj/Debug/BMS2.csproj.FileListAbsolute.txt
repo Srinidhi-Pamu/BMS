@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\BMS2\BMS2\obj\Debug\BMS2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BMS2\BMS2\bin\Debug\BMS2.exe.config
+C:\Users\Admin\source\repos\BMS2\BMS2\bin\Debug\BMS2.exe
+C:\Users\Admin\source\repos\BMS2\BMS2\bin\Debug\BMS2.pdb
+C:\Users\Admin\source\repos\BMS2\BMS2\obj\Debug\BMS2.exe
+C:\Users\Admin\source\repos\BMS2\BMS2\obj\Debug\BMS2.pdb
+C:\Users\Admin\source\repos\BMS2\BMS2\obj\Debug\BMS2.csprojAssemblyReference.cache
